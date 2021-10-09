@@ -106,7 +106,4 @@
     cursor: pointer;
     background: none;
   }
-  label {
-    display: none;
-  }
 </style>
